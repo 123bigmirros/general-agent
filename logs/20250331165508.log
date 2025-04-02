@@ -1,0 +1,2 @@
+2025-03-31 16:55:08.897 | INFO     | app.scheduler.scheduler:create_agent:47 - 创建Agent 'agent1' 在位置 (4, 2)
+2025-03-31 16:55:08.897 | INFO     | app.scheduler.scheduler:create_agent:47 - 创建Agent 'agent2' 在位置 (6, 5)
